@@ -8,7 +8,7 @@ and nids "cvlc" to play the video (only sounds)
 <br>
 play vide from youtube by
 <br>
-http://localhost:1337/play?<query>
+http://localhost:1337/play?(query)
 <br>
 get query from youtube url
 <br>
